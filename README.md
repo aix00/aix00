@@ -20,4 +20,4 @@ I like opensource programs very much and I like learning about new technologies.
 <a href="https://discord.com/users/329802969090359297" target="_blank"><img alt="discord" align="center" src="https://img.shields.io/badge/-Discord-0D1117?style=flat-square&logo=discord&logoColor=white"></a>
 
 
-<img width="100%" align="right" alt="Snake" src="https://github.com/KoRrNiK/KoRrNiK/blob/output/github-contribution-grid-snake.svg">
+<img width="100%" align="right" alt="Snake" src="https://github.com/aix00/aix00/blob/output/github-contribution-grid-snake.svg">
