@@ -17,6 +17,7 @@ I like opensource programs very much and I like learning about new technologies.
 <br>
 
 #### 📫 Contact
+<a href="https://www.linkedin.com/in/krystian-raczyński/" target="_blank"><img alt="twitter" align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"></a>
 <a href="https://discord.com/users/329802969090359297" target="_blank"><img alt="discord" align="center" src="https://img.shields.io/badge/-Discord-0D1117?style=flat-square&logo=discord&logoColor=white"></a>
 
 
